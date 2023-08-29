@@ -62,3 +62,26 @@ Please use this script responsibly and in line with ethical guidelines.
 ## Disclaimer
 
 This script is provided as-is and is intended for educational purposes only. The author and publisher are not responsible for any misuse, damage, or consequences that arise from using this script. Use your discretion and abide by ethical standards.
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+<b>Launch PyCharm and Run the file:</b>
+<br/>  
+<br/>
+<img src="https://github.com/infinity-set/key_logger/assets/142350896/2e7720a1-2ee0-45f6-b211-6211b8640d68" height="80%" width="80%" alt="Run PyCharm File"/>
+<br />
+<br />
+<b>Start typing. The text file is created based on the count setting:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/key_logger/assets/142350896/58d54041-0c78-4460-8682-5c55625dba4a" height="80%" width="80%" alt="Encryption Steps"/>
+<br />
+<br />
+<b>Generated text file is in the same directory as the script:</b>
+<br/>
+<br/>
+<img src="https://github.com/infinity-set/key_logger/assets/142350896/fd6f50aa-cfe8-4d2f-abe4-3daf9be7e751" height="80%" width="80%" alt="Encryption/Decryption Key"/>
+<br/>  
+</p>
+
