@@ -4,7 +4,7 @@ Welcome to the Key Logger using pynput – a simple keylogging script that demon
 
 ## Description
 
-The Key Logger script showcases the concept of keylogging, a technique used to monitor and record keyboard inputs. While this script is intended for educational purposes, it's crucial to emphasize that the use of keyloggers for ***unauthorized or malicious activities is unethical and potentially illegal.***
+The Key Logger script **"key_logger.py"** showcases the concept of keylogging, a technique used to monitor and record keyboard inputs. While this script is intended for educational purposes, it's crucial to emphasize that the use of keyloggers for ***unauthorized or malicious activities is unethical and potentially illegal.***
 
 The script utilizes the **pynput** library to listen for key presses and records them in a list. Once a specified character count is reached, the script writes the captured keys to a log file named ***logged_keys.txt***, including timestamps for each entry. This script serves as a basic example to illustrate the mechanics of keylogging without delving into the complexities of advanced techniques.
 
@@ -41,7 +41,7 @@ The script utilizes the **pynput** library to listen for key presses and records
 
 ## Usage
 
-1. Run the script.
+1. Run the script **"key_logger.py"**.
 2. As the script runs, it will silently capture and log the keys you press on your keyboard.
 3. The script will create a log file named ***logged_keys.txt*** in the same directory as the script.
 4. The log file will contain entries with timestamps indicating when each key was pressed.
@@ -66,7 +66,7 @@ This script is provided as-is and is intended for educational purposes only. The
 <h2>Program walk-through:</h2>
 
 <p align="center">
-<b>Launch PyCharm and Run the file:</b>
+<b>Launch PyCharm and Run the file "key_logger.py":</b>
 <br/>  
 <br/>
 <img src="https://github.com/infinity-set/key_logger/assets/142350896/2e7720a1-2ee0-45f6-b211-6211b8640d68" height="80%" width="80%" alt="Run PyCharm File"/>
