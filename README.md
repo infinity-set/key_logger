@@ -18,6 +18,27 @@ The script utilizes the **pynput** library to listen for key presses and records
 
 - **Ethical Considerations:** It's essential to stress the importance of ethical usage. Keyloggers can invade privacy and potentially violate laws if used without proper authorization. This script promotes ethical coding practices and responsible usage.
 
+## Languages and Utilities Used
+
+- **Python**
+- **PyCharm**
+
+[<img align="center" alt="PyCharm Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][pycharm]
+[<img align="left" alt="Python Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
+
+[pycharm]: https://www.jetbrains.com/pycharm/
+[python]: https://www.python.org/
+
+## Environments Used
+
+- **Windows 10**
+
+[<img align="left" alt="Microsoft Icon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
+
+[windows]: https://www.microsoft.com/
+<br /><br />
+
+
 ## Usage
 
 1. Run the script.
