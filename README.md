@@ -45,7 +45,7 @@ The script utilizes the **pynput** library to listen for key presses and records
 2. As the script runs, it will silently capture and log the keys you press on your keyboard.
 3. The script will create a log file named ***logged_keys.txt*** in the same directory as the script.
 4. The log file will contain entries with timestamps indicating when each key was pressed.
-5. To stop the script, press **Ctrl + C** in the terminal where the script is running.
+5. To stop the script, press the **stop** button in PyCharm.
 
 ## Dependencies
 
