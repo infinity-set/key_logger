@@ -38,6 +38,11 @@ The script utilizes the **pynput** library to listen for key presses and records
 [windows]: https://www.microsoft.com/
 <br /><br />
 
+## Dependencies
+
+- **pynput Library:** The script utilizes the **pynput** library to monitor keyboard inputs and capture key presses.
+
+- **Python's datetime Library:** The **datetime** library is used to add timestamps to the logged keys.
 
 ## Usage
 
@@ -46,12 +51,6 @@ The script utilizes the **pynput** library to listen for key presses and records
 3. The script will create a log file named ***logged_keys.txt*** in the same directory as the script.
 4. The log file will contain entries with timestamps indicating when each key was pressed.
 5. To stop the script, press the **stop** button in PyCharm.
-
-## Dependencies
-
-- **pynput Library:** The script utilizes the **pynput** library to monitor keyboard inputs and capture key presses.
-
-- **Python's datetime Library:** The **datetime** library is used to add timestamps to the logged keys.
 
 ## Caution and Ethical Considerations
 
