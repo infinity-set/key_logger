@@ -2,6 +2,18 @@
 
 Welcome to the Key Logger using pynput – a simple keylogging script that demonstrates the basic functionality of capturing key presses and saving them to a log file. This Python script provides an introduction to the world of keyboard input monitoring, allowing you to explore how keys are captured and stored.
 
+## Table of Contents
+
+- [Description](#description)
+- [Why Use This Script?](#why-use-this-script)
+- [Languages and Utilities Used](#languages-and-utilities-used)
+- [Environments Used](#environments-used)
+- [Dependencies](#dependencies)
+- [Usage](#usage)
+- [Caution and Ethical Considerations](#caution-and-ethical-considerations)
+- [Disclaimer](#disclaimer)
+- [Program Walk-Through](#program-walk-through)
+
 ## Description
 
 The Key Logger script **"key_logger.py"** showcases the concept of keylogging, a technique used to monitor and record keyboard inputs. While this script is intended for educational purposes, it's crucial to emphasize that the use of keyloggers for ***unauthorized or malicious activities is unethical and potentially illegal.***
@@ -62,7 +74,7 @@ Please use this script responsibly and in line with ethical guidelines.
 
 This script is provided as-is and is intended for educational purposes only. The author and publisher are not responsible for any misuse, damage, or consequences that arise from using this script. Use your discretion and abide by ethical standards.
 
-<h2>Program walk-through:</h2>
+<h2>Program Walk-Through</h2>
 
 <p align="center">
 <b>Launch PyCharm and Run the file "key_logger.py":</b>
