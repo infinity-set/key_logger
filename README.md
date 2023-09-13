@@ -96,3 +96,7 @@ This script is provided as-is and is intended for educational purposes only. The
 <br/>  
 </p>
 
+#
+<br>
+
+⬅️ **[Home](https://github.com/infinity-set)**
