@@ -43,7 +43,7 @@ The script utilizes the **pynput** library to listen for key presses and records
 
 ## Environments Used
 
-- **Windows 10**
+- **Windows**
 
 [<img align="left" alt="Microsoft Icon" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" />][windows]
 
